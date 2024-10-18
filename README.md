@@ -1,2 +1,0 @@
-# splitfood
-eatnsplit
